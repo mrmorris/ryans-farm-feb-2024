@@ -14,3 +14,5 @@
 ## Other details:
 
 * Made from wood
+* Water proof roof
+* Has fence
