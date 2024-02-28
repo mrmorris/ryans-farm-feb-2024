@@ -1,5 +1,0 @@
-# Unicorn
-
-----
-
-* Color: rainbow

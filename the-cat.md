@@ -1,5 +1,0 @@
-# MEOW MEOW
-
-----
-
-* PURRRR
